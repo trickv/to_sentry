@@ -5,7 +5,7 @@
 
 ## Step #1: Install
 ```
-pip to_sentry
+pip install to_sentry
 ```
 ## Step #2: Create `/etc/to_sentry.conf`
 
